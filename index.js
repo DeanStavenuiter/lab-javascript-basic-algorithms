@@ -1,8 +1,8 @@
 // Iteration 1: Names and Input
-const hacker1 = "Dean";
+const hacker0 = "Dean";
 console.log(hacker1);
-const hacker2 = "Joshua";
-console.log(hacker2);
+const hacker1 = "Joshua";
+console.log(hacker1);
 
 // Iteration 2: Conditionals
 if (hacker0.length > hacker1.length) {
@@ -15,8 +15,8 @@ if (hacker0.length > hacker1.length) {
 
 // Iteration 3: Loops
 // 3.1
-const hacker0 = "Miguel";
-const hacker1 = "Maik";
+// const hacker0 = "Miguel";
+// const hacker1 = "Maik";
 
 let fullName = "";
 for (let i = 0; i < hacker0.length; i++) {
